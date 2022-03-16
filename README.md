@@ -29,3 +29,8 @@ pip install G5encode
   
   
   ### MY CHANNEL in YOUTUBE : [Glitch5](https://www.youtube.com/channel/UCbtl69OSoFccCYxR4AojJNg)
+  
+  
+  ### To communicate :
+[![Telegram](https://img.shields.io/badge/Chat-Telegram-blue?style=for-the-badge&logo=Telegram)](http://t.me/Glich5)
+[![Youtube](https://img.shields.io/badge/Channel-Youtube-red?style=for-the-badge&logo=Youtube)](https://www.youtube.com/channel/UCbtl69OSoFccCYxR4AojJNg)
